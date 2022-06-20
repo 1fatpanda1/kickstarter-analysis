@@ -4,7 +4,6 @@ Performance analysis on Kickstarter data to uncover trends
 I am helping Louise analyze and understand the successes and failures of past theatrical crowdfunding campaigns. This will give her a better understanding on how to set up her own successful campaign. 
 ## Analysis and Challenges
 I first looked at the data for past theatrical campaigns and created a pivot table and accompanying graph that shows the number of successful, failed, and canceled theatrical campaigns by month which can be filtered by year. 
----
 ![Theater_Outcomes_vs_Launch.png](https://github.com/1fatpanda1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ---
 I then aggregated the number of successful, failed, and canceled plays based on their goal and charted those in the following chart.
