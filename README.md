@@ -1,4 +1,4 @@
-#Kickstarter Analysis
+# Kickstarter Analysis
 
 ## Overview of Project
 I am helping Louise analyze and understand the successes and failures of past theatrical crowdfunding campaigns based on when they were started and their starting goal. This will give her a better understanding on how to set up her own successful campaign. 
