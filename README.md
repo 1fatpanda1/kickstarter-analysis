@@ -9,7 +9,7 @@ I first looked at the data for past theatrical campaigns and created a pivot tab
 
 I then aggregated the percentage of successful, failed, and canceled plays based on their goal and charted those in the following chart.
 
-![Outcomes_vs_Goals.png](https://github.com/1fatpanda1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/1fatpanda1/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 The main challenge was configuring the countif formulas for the Outcomes Based on Goals. I found the best way to organize the function was by searching for plays, then breaking down the limits by searching for the bottom limit first (greater than) and then the upper limit (less than) for the ranges in between two values. It was also easier to create the first column (number successful) and then copy and pasting those formulas and editing the successful/failed/canceled parameter.
 ## Results, Limitations, and Recommendations
