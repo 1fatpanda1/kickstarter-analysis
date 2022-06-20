@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performinc analysis on Kickstarter data to uncover trends
+Performance analysis on Kickstarter data to uncover trends
 ## Overview of Project
 I am helping Louise analyze and understand the successes and failures of past theatrical crowdfunding campaigns. This will give her a better understanding on how to set up her own successful campaign. 
 ## Analysis and Challenges
