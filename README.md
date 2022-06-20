@@ -7,7 +7,7 @@ I first looked at the data for past theatrical campaigns and created a pivot tab
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/1fatpanda1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-I then aggregated the number of successful, failed, and canceled plays based on their goal and charted those in the following chart.
+I then aggregated the percentage of successful, failed, and canceled plays based on their goal and charted those in the following chart.
 
 ![Outcomes_vs_Goals.png](https://github.com/1fatpanda1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
